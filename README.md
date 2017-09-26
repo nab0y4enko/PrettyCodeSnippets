@@ -1,7 +1,5 @@
 # PrettyCodeSnippets
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)]
-(https://github.com/nab0y4enko/PrettyKeyboardHelper/blob/master/LICENSE)
 [![Twitter: @nab0y4enko](https://img.shields.io/badge/contact-@nab0y4enko-orange.svg?style=flat)](https://twitter.com/nab0y4enko)
 
 A set of pretty snippets for Xcode.
