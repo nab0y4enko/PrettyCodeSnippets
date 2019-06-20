@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Private Type Methods</string>
+	<string>Private Methods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Private Type Methods</string>
+	<string>// MARK: - Private Methods</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E7FEC78C-416E-4B79-983F-6106A6A74DCE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - Private Type Methods</string>
+	<string>// MARK: - Private Methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Private Type Methods</string>
+	<string>MARK comment for Private Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

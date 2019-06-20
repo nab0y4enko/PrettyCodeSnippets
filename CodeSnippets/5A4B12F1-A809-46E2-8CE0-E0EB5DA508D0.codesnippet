@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Outlets</string>
+	<string>IBOutlets</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Outlets
+	<string>// MARK: - IBOutlets
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5A4B12F1-A809-46E2-8CE0-E0EB5DA508D0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - Outlets</string>
+	<string>// MARK: - IBOutlets</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Outlets (Swift)</string>
+	<string>MARK comment for IBOutlets</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

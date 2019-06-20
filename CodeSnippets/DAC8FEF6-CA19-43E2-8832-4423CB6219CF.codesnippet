@@ -3,24 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Public Type Methods</string>
+	<string>guard</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Public Type Methods</string>
+	<string>guard let self = self else {
+    return
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DB0843C8-6B08-4E3A-A280-7B26C209C28E</string>
+	<string>DAC8FEF6-CA19-43E2-8832-4423CB6219CF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - Public Type Methods</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Public Type Methods</string>
+	<string>Guard for self</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

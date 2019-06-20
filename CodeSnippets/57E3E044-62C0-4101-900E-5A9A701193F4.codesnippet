@@ -3,21 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Constructors</string>
+	<string>FIXME</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Constructors</string>
+	<string>// FIXME: 
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>50FD974D-B8CF-4C94-B67B-00CDC47F6944</string>
+	<string>57E3E044-62C0-4101-900E-5A9A701193F4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - Constructors</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Constructors (Swift)</string>
+	<string>FIXME comment</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

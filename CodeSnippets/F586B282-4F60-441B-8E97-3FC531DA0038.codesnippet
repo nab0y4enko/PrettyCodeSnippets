@@ -7,10 +7,10 @@
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
-		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - </string>
+	<string>// MARK: - 
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F586B282-4F60-441B-8E97-3FC531DA0038</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>// MARK: -</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment (Swift)</string>
+	<string>MARK comment</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

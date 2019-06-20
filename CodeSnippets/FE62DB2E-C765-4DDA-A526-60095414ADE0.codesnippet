@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Public Instance Methods</string>
+	<string>Public Methods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Public Instance Methods</string>
+	<string>// MARK: - Public Methods</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE62DB2E-C765-4DDA-A526-60095414ADE0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - Public Instance Methods</string>
+	<string>// MARK: - Public Methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Public Instance Methods</string>
+	<string>MARK comment for Public Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

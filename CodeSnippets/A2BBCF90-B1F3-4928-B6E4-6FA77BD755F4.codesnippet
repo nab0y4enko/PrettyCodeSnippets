@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>UIViewController</string>
+	<string>Lifecycle</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - UIViewController</string>
+	<string>// MARK: - Lifecycle</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A2BBCF90-B1F3-4928-B6E4-6FA77BD755F4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - UIViewController</string>
+	<string>// MARK: - Lifecycle</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for UIViewController methods</string>
+	<string>MARK comment for Lifecycle methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

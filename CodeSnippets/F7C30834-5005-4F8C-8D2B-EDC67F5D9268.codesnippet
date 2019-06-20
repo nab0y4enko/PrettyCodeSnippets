@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Printable Protocol</string>
+	<string>IBActions</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
+		<string>ClassImplementation</string>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Printable Protocol</string>
+	<string>// MARK: - IBActions
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AF6DD70C-5AC3-4F0B-9417-B721057B3D20</string>
+	<string>F7C30834-5005-4F8C-8D2B-EDC67F5D9268</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>// MARK: - Printable Protocol</string>
+	<string>// MARK: - IBActions</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Printable Protocol (Swift)</string>
+	<string>MARK comment for IBActions</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
