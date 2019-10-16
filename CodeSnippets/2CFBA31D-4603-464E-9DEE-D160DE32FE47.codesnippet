@@ -9,7 +9,8 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Singletone Implementation</string>
+	<string>// MARK: - Singletone Implementation
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2CFBA31D-4603-464E-9DEE-D160DE32FE47</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +18,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>// MARK: - Singletone Implementation</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Singletone Implementation (Swift)</string>
+	<string>MARK comment for Singletone Implementation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -9,7 +9,8 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Private Properties</string>
+	<string>// MARK: - Private Properties
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB917817-77CB-4F3F-BCE6-BF34D25D89E8</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +18,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>// MARK: - Private Properties</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK comment for Private Properties (Swift)</string>
+	<string>MARK comment for Private Properties</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
