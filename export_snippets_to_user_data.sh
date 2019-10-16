@@ -2,7 +2,7 @@
 ## Copying snippets in the UserData directory
 ## 
 ## Usage:
-## 	sh export-snippets-to-user-data.sh
+## 	sh export_snippets_to_user_data.sh
 ##
 ## Copyright © 2016 Oleksii Naboichenko. All rights reserved.
 
@@ -24,9 +24,9 @@ if ! [ -d ${destination} ]; then
 fi
 
 # Copy files
-sh ./copy-directory.sh --source=${source} --destination=${destination}
+sh ./copy_directory.sh --source=${source} --destination=${destination}
 
 # Relaunch Xcode
-sh ./restart-application.sh --bundle="Xcode"
+sh ./restart_application.sh --bundle="Xcode"
 
 exit 0

@@ -2,7 +2,7 @@
 ## Importing code snippets in the current directory
 ## 
 ## Usage:
-## 	sh import-snippets-from-user-data.sh
+## 	sh import_snippets_from_user_data.sh
 ##
 ## Copyright © 2016 Oleksii Naboichenko. All rights reserved.
 
@@ -23,7 +23,10 @@ if ! [ -d ${destination} ]; then
     exit 1
 fi
 
+# Clear destination directory
+rm -r ${destination}/${snippets_directory_name}
+
 # Copy files
-sh ./copy-directory.sh --source=${source} --destination=${destination}
+sh ./copy_directory.sh --source=${source} --destination=${destination}
 
 exit 0

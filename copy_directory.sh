@@ -2,7 +2,7 @@
 ## Script to copy directories
 ## 
 ## Usage:
-## 	sh copy-directory [option1] ARG1 [option1] ARG2
+## 	sh copy_directory [option1] ARG1 [option1] ARG2
 ## 
 ## Options:
 ## 	-s, --source		Source directory
